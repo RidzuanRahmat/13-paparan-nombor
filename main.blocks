@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="~2Q?T~h^(gx?T[/V,y!9" x="20" y="20"><statement name="HANDLER"><block type="device_show_number" id="*8:LKN6l@EB_U$-S!:{:"><value name="number"><shadow type="math_number" id="qLCRd.:GEPXkLtssU!*F"><field name="NUM">7</field></shadow></value></block></statement></block></xml>
